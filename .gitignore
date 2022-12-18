@@ -1,0 +1,5 @@
+// private env file having credentials
+.env
+
+// node modules
+node_modules/*
